@@ -15,6 +15,7 @@ To avoid conflicting, please write between written things...
 4. Click "Pull request" buttom
 
 # List of Meme
+* Party parrot
 * Space Cat
 * Meme man / Stonks guy
 * Monster Hunter
