@@ -25,4 +25,5 @@ To avoid conflicting, please write between written things...
 * Bakibaki doutei
 * DOKABEN OP
 * がんばるゾイ
+* nonomura ryutaro
 
