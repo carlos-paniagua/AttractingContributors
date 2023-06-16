@@ -26,4 +26,5 @@ To avoid conflicting, please write between written things...
 * DOKABEN OP
 * がんばるゾイ
 * nonomura ryutaro
+* Bully Maguire
 
